@@ -1,0 +1,30 @@
+.company_container {
+  width: 100%;
+  margin: 0 auto;
+  padding: 3em;
+}
+
+.title_container {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 2em;
+}
+
+.company_container h1 {
+  margin-bottom: 0.5em;
+}
+
+.company_container p {
+  color: #7b7b7b;
+  text-align: justify;
+  margin-top: 5px;
+}
+
+.company_container p span{
+ font-weight: bold;
+}
+
+.icon svg {
+  margin-top: 10px;
+}
+
